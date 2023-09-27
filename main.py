@@ -6,6 +6,7 @@ import logging.config
 import traceback
 from const import *
 import schedule
+import dotenv
 import time
 import re
 
